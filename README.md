@@ -3,7 +3,7 @@
 <p align="center">
   <img href="https://leetcode.com/studyplan/30-days-of-pandas/" src="30-days-of-pandas.png" alt="Pandas and SQL">
 </p>
-
+<a href="https://leetcode.com/studyplan/30-days-of-pandas/">30 Days of Pandas</a>
 Welcome to the "Collection of Questions and Answers from the 30-Day Pandas Challenge"! This repository contains a comprehensive set of questions and corresponding answers from the 30-Day Pandas Challenge, designed to help individuals enhance their proficiency in using the Pandas library for data manipulation and analysis.
 
 ## Overview
